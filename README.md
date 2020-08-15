@@ -1,4 +1,4 @@
-<h1 align="center">Bello 👋, I'm Batara Kanaydo</h1>
+### Bello 👋, I'm Batara Kanaydo
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kanaydo&show_icons=true&count_private=true" />
