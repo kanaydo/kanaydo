@@ -1,1 +1,1 @@
-### Bello 👋, I'm Batara Kanaydo
+### Bello 👋🏻, I'm Batara Kanaydo
