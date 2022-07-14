@@ -1,2 +1,2 @@
 ### Bello 👋🏻, I'm Batara Kanaydo
-```feel free to drop a message, contant me right there 👈🏻```
+```feel free to drop a message, contact me right there 👈🏻```
