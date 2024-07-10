@@ -1,4 +1,4 @@
-### Bello 👋🏻, I'm Batara Kanaydo
+### Bello 👋🏻, I'm Kanaydo Girsang
 Flutter Developer | Android Developer | Ruby on Rails Developer
 
 
