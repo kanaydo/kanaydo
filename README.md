@@ -1,5 +1,5 @@
 ### Bello 👋🏻, I'm Kanaydo Girsang
-Flutter Developer | Android Developer | Ruby on Rails Developer
+Ruby on Rails | Next.JS | Flutter | Android Native
 
 
 ```feel free to drop a message, contact me right there 👈🏻```
